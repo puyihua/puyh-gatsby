@@ -21,7 +21,7 @@ export default ({ children }) => (
           font-style: normal;
         `}
       >
-        Pandas Eating Lots
+        puyh.pub
       </h3>
     </Link>
     <Link
